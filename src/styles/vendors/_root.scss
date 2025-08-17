@@ -1,0 +1,31 @@
+// Root CSS variables
+
+:root,
+[data-bs-theme="light"] {
+
+  // Link color
+  --#{$prefix}link-color: var(--#{$prefix}info);
+  --#{$prefix}link-color-rgb: var(--#{$prefix}info-rgb);
+  --#{$prefix}link-hover-color: var(--#{$prefix}info);
+  --#{$prefix}link-hover-color-rgb: var(--#{$prefix}info-rgb);
+  --#{$prefix}component-hover-color: #{$component-hover-color};
+
+  // Common component colors
+  --#{$prefix}component-color: #{$component-color};
+  --#{$prefix}component-hover-color: #{$component-hover-color};
+  --#{$prefix}component-hover-bg: #{$component-hover-bg};
+  --#{$prefix}component-active-color: #{$component-active-color};
+  --#{$prefix}component-active-bg: #{$component-active-bg};
+  --#{$prefix}component-disabled-color: #{$component-disabled-color};
+
+  // User selection color
+  --#{$prefix}user-selection-color: #{$user-selection-color};
+
+  // Add xs and xxxl border-radius
+  --#{$prefix}border-radius-xs: #{$border-radius-xs};
+  --#{$prefix}border-radius-xxxl: #{$border-radius-xxxl};
+
+  // Plyr video player main accent color
+  --plyr-color-main: var(--#{$prefix}primary);
+}
+
