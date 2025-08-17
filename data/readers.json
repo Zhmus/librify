@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Elizabeth Ewing",
+    "email": "richard63@gmail.com",
+    "registered_at": "2024-10-23"
+  },
+  {
+    "id": 2,
+    "name": "Meagan Hopkins",
+    "email": "eleblanc@gmail.com",
+    "registered_at": "2024-08-04"
+  },
+  {
+    "id": 3,
+    "name": "Lindsey Gilbert",
+    "email": "lisadavis@hotmail.com",
+    "registered_at": "2025-01-10"
+  },
+  {
+    "id": 4,
+    "name": "Russell Hernandez",
+    "email": "andrewpalmer@dawson.info",
+    "registered_at": "2023-09-17"
+  },
+  {
+    "id": 5,
+    "name": "Lindsey Little",
+    "email": "zdavis@moore.biz",
+    "registered_at": "2024-04-01"
+  },
+  {
+    "id": 6,
+    "name": "Robyn Lewis",
+    "email": "derek31@williamson.com",
+    "registered_at": "2024-03-08"
+  },
+  {
+    "id": 7,
+    "name": "Jerome Rodriguez",
+    "email": "brandijensen@taylor-johnson.com",
+    "registered_at": "2024-09-25"
+  },
+  {
+    "id": 8,
+    "name": "Jose Lopez",
+    "email": "heather18@frazier-avila.com",
+    "registered_at": "2024-09-17"
+  },
+  {
+    "id": 9,
+    "name": "Kathryn Villanueva",
+    "email": "jesseclark@wiley.com",
+    "registered_at": "2024-04-14"
+  },
+  {
+    "id": 10,
+    "name": "Shannon Miller",
+    "email": "thomas78@wilson-donovan.com",
+    "registered_at": "2023-11-21"
+  },
+  {
+    "id": 11,
+    "name": "Kenneth Murillo",
+    "email": "thunter@yahoo.com",
+    "registered_at": "2024-09-18"
+  },
+  {
+    "id": 12,
+    "name": "Janet Johnson",
+    "email": "burnettmeredith@gmail.com",
+    "registered_at": "2023-06-30"
+  },
+  {
+    "id": 13,
+    "name": "Susan Cox",
+    "email": "diana44@yahoo.com",
+    "registered_at": "2023-07-18"
+  },
+  {
+    "id": 14,
+    "name": "Crystal Benjamin",
+    "email": "breeves@combs.biz",
+    "registered_at": "2025-02-13"
+  },
+  {
+    "id": 15,
+    "name": "Thomas Richardson",
+    "email": "lopezdavid@powers-doyle.biz",
+    "registered_at": "2023-12-29"
+  },
+  {
+    "id": 16,
+    "name": "Jason Williamson",
+    "email": "kevinbyrd@abbott.com",
+    "registered_at": "2024-02-01"
+  },
+  {
+    "id": 17,
+    "name": "Felicia Nguyen",
+    "email": "wongbruce@cook.info",
+    "registered_at": "2024-02-11"
+  },
+  {
+    "id": 18,
+    "name": "Anthony Bishop",
+    "email": "taylorgeorge@yahoo.com",
+    "registered_at": "2025-03-15"
+  },
+  {
+    "id": 19,
+    "name": "Brittney Walton",
+    "email": "stephanieodonnell@caldwell.biz",
+    "registered_at": "2023-07-06"
+  },
+  {
+    "id": 20,
+    "name": "John Haney",
+    "email": "ajackson@gmail.com",
+    "registered_at": "2024-05-22"
+  }
+]
